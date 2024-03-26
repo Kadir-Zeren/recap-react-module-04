@@ -1,9 +1,10 @@
-
+import data from "./data";
 function App() {
+  console.log(data);
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <h1>APP</h1>
+    </>
   );
 }
 
